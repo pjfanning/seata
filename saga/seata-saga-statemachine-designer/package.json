@@ -44,7 +44,7 @@
     "react": "^16.3.0"
   },
   "dependencies": {
-    "@antv/g6": "^2.2.6",
+    "@antv/g6": "^4.8.23",
     "@babel/traverse": "^7.23.2",
     "codemirror": "^5.65.8",
     "core-js": "^3.6.5",
